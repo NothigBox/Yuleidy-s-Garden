@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 900a87adcc8052544a7d0ab5e7d0ae87, type: 3}
+  m_Name: Ball
+  m_EditorClassIdentifier: 
+  foliage: {fileID: 21300000, guid: b25e4b08f94564844b7a740f17e094c4, type: 3}
+  seed: {fileID: 21300000, guid: d82cdab27b7957944878a934eb474fb0, type: 3}
+  pink: {fileID: 21300000, guid: c32de88c0b7afd647818b031f4cb7222, type: 3}
+  ballFoliage: {fileID: -8723030741212822681, guid: 01520c3f3d76fa348b86ec79fd1b2854, type: 3}
+  ballSeed: {fileID: 5598027665427576221, guid: 3fae9d1986be3ff4e890833de71d24a5, type: 3}
+  ballPink: {fileID: 6552135802901551270, guid: 518981339f7f17544ae047f74c7c5f0b, type: 3}
+  foliageColor: {r: 0, g: 1, b: 0.22307682, a: 1}
+  seedColor: {r: 1, g: 0.7921569, b: 0, a: 1}
+  pinkColor: {r: 1, g: 0, b: 0.5294118, a: 1}
+  points: {fileID: 4318419212304230783, guid: 00c00b95333e81643b6493f127f9702d, type: 3}
